@@ -748,6 +748,6 @@ seo:
   metaDescription: 'Site internet Verticraft-fpv : préstation vidéo/ construction de drone fpv '
   socialImage: /images/main-hero.jpg
   type: Seo
-  addTitleSuffix: true
+  addTitleSuffix: false
 type: PageLayout
 ---
