@@ -746,7 +746,7 @@ sections:
 seo:
   metaTitle: 'Page d’accueil verticraft '
   metaDescription: 'Site internet Verticraft-fpv : préstation vidéo/ construction de drone fpv '
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/F86E9197-8AE6-4DA9-BE54-E809561E76FC.jpg
   type: Seo
   addTitleSuffix: false
   metaTags: []
