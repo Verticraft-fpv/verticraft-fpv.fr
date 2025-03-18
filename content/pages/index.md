@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: 'Page d’accueil verticraft '
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: 'Site internet Verticraft-fpv : préstation vidéo/ construction de drone fpv '
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
