@@ -19,7 +19,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: DJI_0005_stabilized.mp4
+      url: 'https://www.youtube.com/watch?v=fAha_y5Scss'
       autoplay: true
       loop: true
       muted: true
