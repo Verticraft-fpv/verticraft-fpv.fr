@@ -4,47 +4,6 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      type: TitleBlock
-      text: Verticraft
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: Des images immersives en drone FPV
-    text: >+
-      Je mets ma passion du FPV et mes drones à votre service pour réaliser des
-      images originales et immersives.
-
-    actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: 'https://www.youtube.com/watch?v=fAha_y5Scss'
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-  - type: GenericSection
-    title:
       text: verticraft
       color: text-dark
       type: TitleBlock
@@ -57,7 +16,7 @@ sections:
 
     actions: []
     media:
-      url: /images/F86E9197-8AE6-4DA9-BE54-E809561E76FC.jpg
+      url: /images/IMG_3273.JPG
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
