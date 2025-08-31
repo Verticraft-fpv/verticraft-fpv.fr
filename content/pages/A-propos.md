@@ -1,33 +1,7 @@
 ---
 title: À propos
 slug: À propos
-sections:
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: VERTICRAFT
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts: []
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: small-list
-    colors: bg-light-fg-dark
-    hoverEffect: move-up
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
+sections: []
 seo:
   metaTitle: Pricing - Demo site
   metaDescription: This is the pricing page built with Netlify Create.
