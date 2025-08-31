@@ -70,6 +70,7 @@ sections:
     posts:
       - content/pages/blog/five-tips-for-starting-a-startup.md
       - content/pages/blog/what-is-a-design-system.md
+      - content/pages/blog/this-is-a-blog-post-with-relateezdl.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
