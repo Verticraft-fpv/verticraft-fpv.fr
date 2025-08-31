@@ -12,6 +12,7 @@ sections:
           textAlign: center
     posts:
       - content/pages/blog/five-tips-for-starting-a-startup.md
+      - content/pages/blog/erfgjb.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
