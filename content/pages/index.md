@@ -7,7 +7,7 @@ sections:
       text: verticraft
       color: text-dark
       type: TitleBlock
-    subtitle: prestation vide
+    subtitle: Des images immersives en drone FPV
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
