@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Qui suis-je ?
-date: '2025-08-15'
+date: ''
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
