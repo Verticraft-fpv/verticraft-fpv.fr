@@ -41,10 +41,6 @@ sections:
           borderColor: border-dark
           borderWidth: 0
           borderStyle: dashed
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
