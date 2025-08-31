@@ -155,6 +155,10 @@ sections:
       subtitle:
         textAlign: center
     elementId: a propos
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
 seo:
   metaTitle: 'Page d’accueil verticraft '
   metaDescription: 'Site internet Verticraft-fpv : préstation vidéo/ construction de drone fpv '
