@@ -36,6 +36,8 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+      subtitle:
+        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
