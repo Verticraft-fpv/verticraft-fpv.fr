@@ -154,6 +154,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    elementId: a propos
 seo:
   metaTitle: 'Page d’accueil verticraft '
   metaDescription: 'Site internet Verticraft-fpv : préstation vidéo/ construction de drone fpv '
