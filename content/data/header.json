@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "deuxième page",
+            "label": "Prestation",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
