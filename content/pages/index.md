@@ -100,6 +100,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/IMG_20210829_191023.jpg
 seo:
   metaTitle: 'Page d’accueil verticraft '
   metaDescription: 'Site internet Verticraft-fpv : préstation vidéo/ construction de drone fpv '
