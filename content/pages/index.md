@@ -9,10 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Des images immersives en drone FPV
     text: >+
-
-
-      Je mets ma passion du FPV et mes drones à votre service pour réaliser des
-      images originales et immersives.
+      <div style="text-align: center">Je mets ma passion du FPV et mes drones à
+      votre service pour réaliser des images originales et immersives.</div>
 
     actions: []
     media:
