@@ -46,6 +46,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/IMG_20210829_191023.jpg
   - title: Divider
     colors: bg-light-fg-dark
     styles:
