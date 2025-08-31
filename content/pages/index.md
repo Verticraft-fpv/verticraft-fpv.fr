@@ -86,6 +86,13 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
 seo:
   metaTitle: 'Page d’accueil verticraft '
   metaDescription: 'Site internet Verticraft-fpv : préstation vidéo/ construction de drone fpv '
