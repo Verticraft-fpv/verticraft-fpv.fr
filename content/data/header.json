@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Prestation",
+            "label": "Découvrir mes services",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
