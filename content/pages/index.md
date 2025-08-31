@@ -68,7 +68,6 @@ sections:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/five-tips-for-starting-a-startup.md
       - content/pages/blog/this-is-a-blog-post-with-relateezdl.md
     showThumbnail: true
     showExcerpt: true
