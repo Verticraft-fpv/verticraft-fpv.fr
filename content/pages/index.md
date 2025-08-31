@@ -76,7 +76,7 @@ sections:
     actions: []
     elementId: ''
     variant: small-list
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     hoverEffect: move-up
     styles:
       self:
