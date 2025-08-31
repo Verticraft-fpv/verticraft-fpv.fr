@@ -7,6 +7,9 @@ sections:
       text: verticraft
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: Des images immersives en drone FPV
     text: >+
       <div style="text-align: center">Je mets ma passion du FPV et mes drones à
