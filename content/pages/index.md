@@ -81,7 +81,7 @@ sections:
     showDate: true
     showAuthor: true
     actions: []
-    elementId: ''
+    elementId: À propos
     variant: small-list
     colors: bg-dark-fg-light
     hoverEffect: move-up
