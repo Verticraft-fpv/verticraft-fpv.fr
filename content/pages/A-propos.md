@@ -1,6 +1,6 @@
 ---
 title: À propos
-slug: pricing
+slug: À propos
 sections:
   - type: FeaturedPostsSection
     title:
