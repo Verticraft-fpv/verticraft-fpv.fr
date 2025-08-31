@@ -83,7 +83,7 @@ bottomSections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
 slug: this-is-a-blog-post-with-relateezdl
 isFeatured: false
 isDraft: false
