@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: a ^prosois
+title: ''
 date: '2022-10-10'
 author: content/data/person1.json
 excerpt: >-
