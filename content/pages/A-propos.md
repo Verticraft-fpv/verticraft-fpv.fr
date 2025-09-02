@@ -74,6 +74,8 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+      text:
+        textAlign: center
   - type: GenericSection
     subtitle: ''
     text: >
