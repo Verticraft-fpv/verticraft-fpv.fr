@@ -29,6 +29,7 @@ sections:
       styles:
         self:
           borderRadius: medium
+      url: /images/IMG_3273.JPG
   - type: GenericSection
     title:
       type: TitleBlock
