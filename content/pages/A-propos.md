@@ -104,21 +104,6 @@ sections:
         flexDirection: row-reverse
       text:
         textAlign: center
-  - type: GenericSection
-    subtitle: ''
-    text: "**Mon matériel**\n\n\LAvec mes drones FPV, je capture des images immersives et originales, toutes disponibles en LOG pour un rendu professionnel et modulable en post-production.\nLe Cinewhoop (O4 Pro) me permet de réaliser des plans rapprochés, précis et sécurisés, avec une qualité vidéo jusqu’à 4K 60fps en HDR et des couleurs riches, idéal pour filmer des personnes ou des espaces restreints.\nMon drone 5 pouces équipé d’une Action 5 Pro offre des séquences spectaculaires en 4K 120fps HDR, avec une fluidité et un dynamisme parfaits pour les plans rapides et aériens.\nPour compléter mes prises de vue FPV, j’utilise également un Mini 4 Pro, capable de filmer en 4K 60fps HDR, idéal pour des plans stabilisés et fluides lorsque nécessaire.\n"
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/IMG_3273.JPG
-      altText: Dope design preview
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-      text:
-        textAlign: center
 seo:
   metaTitle: Pricing - Demo site
   metaDescription: This is the pricing page built with Netlify Create.
