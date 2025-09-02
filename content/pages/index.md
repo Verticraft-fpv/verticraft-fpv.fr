@@ -100,7 +100,7 @@ sections:
         elementId: ''
     elementId: À propos
     variant: small-list
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     hoverEffect: move-up
     styles:
       self:
