@@ -81,7 +81,7 @@ sections:
     showAuthor: true
     actions:
       - type: Button
-        label: Get started
+        label: À propos
         altText: ''
         url: /À propos
         showIcon: false
