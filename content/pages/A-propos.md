@@ -37,11 +37,15 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      **Pour qui je travaille ?**
+
+
+      Que vous soyez un particulier, un créateur de contenu, une entreprise ou
+      une structure événementielle, je suis là pour vous aider à capturer vos
+      projets de manière originale et immersive, en mettant ma passion et mon
+      matériel à votre service pour produire des images fluides, modernes et
+      percutantes.
     actions: []
     media:
       type: VideoBlock
