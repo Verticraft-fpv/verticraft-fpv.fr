@@ -89,6 +89,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /Services
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     elementId: À propos
     variant: small-list
     colors: bg-dark-fg-light
