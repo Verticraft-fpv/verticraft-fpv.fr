@@ -31,7 +31,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Home page",
             "altText": "",
             "url": "/Home",
             "showIcon": false,
