@@ -135,7 +135,7 @@ sections:
         textAlign: center
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/IMG_3273.JPG
       altText: Image alt text placeholder
       elementId: ''
       styles:
