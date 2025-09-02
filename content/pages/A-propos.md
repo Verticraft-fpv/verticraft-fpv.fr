@@ -31,7 +31,7 @@ sections:
           borderRadius: medium
       url: /images/IMG_3273.JPG
   - type: GenericSection
-    subtitle: Be in good company
+    subtitle: ''
     text: >+
       **Pour qui je travaille ?**
 
