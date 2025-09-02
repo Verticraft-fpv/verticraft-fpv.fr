@@ -90,7 +90,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Get started
+        label: ''
         altText: ''
         url: /Services
         showIcon: false
