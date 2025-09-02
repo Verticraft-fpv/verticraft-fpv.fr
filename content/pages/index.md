@@ -69,7 +69,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: ''
+      text: À propos
       color: text-dark
       styles:
         self:
