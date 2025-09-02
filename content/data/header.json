@@ -13,6 +13,17 @@
     },
     "primaryLinks": [
         {
+            "type": "Link",
+            "label": "Home page",
+            "altText": "",
+            "url": "/Home",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "À propos",
             "url": "/À propos",
             "icon": "arrowRight",
