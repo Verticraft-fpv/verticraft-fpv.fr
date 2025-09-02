@@ -74,8 +74,7 @@ sections:
       styles:
         self:
           textAlign: center
-    posts:
-      - content/pages/blog/this-is-a-blog-post-with-relateezdl.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
