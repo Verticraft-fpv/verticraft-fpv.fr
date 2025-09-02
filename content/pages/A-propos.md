@@ -24,7 +24,6 @@ sections:
         textAlign: center
     media:
       type: ImageBlock
-      url: /images/F86E9197-8AE6-4DA9-BE54-E809561E76FC.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
