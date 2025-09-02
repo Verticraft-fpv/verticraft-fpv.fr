@@ -32,9 +32,16 @@ sections:
       url: /images/IMG_3273.JPG
   - type: GenericSection
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      **Pour qui je travaille ?**
+
+
+      Que vous soyez un particulier, un créateur de contenu, une entreprise ou
+      une structure événementielle, je suis là pour vous aider à capturer vos
+      projets de manière originale et immersive, en mettant ma passion et mon
+      matériel à votre service pour produire des images fluides, modernes et
+      percutantes.
+
     actions: []
     media:
       type: ImageBlock
