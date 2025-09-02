@@ -122,6 +122,8 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+      text:
+        textAlign: center
   - type: GenericSection
     subtitle: ''
     text: >
