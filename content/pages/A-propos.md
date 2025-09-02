@@ -11,11 +11,7 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "**À propos de moi**\n\n\nBonjour, je suis pilote et vidéaste FPV passionné, originaire de Savoie. Actuellement en études en République Tchèque, je reste disponible pour vos projets aussi bien en France qu’en Tchéquie. Bienvenue sur mon site !\nDepuis toujours, je suis attiré par l’image et la vidéo. Le drone FPV me permet d’allier liberté de mouvement et créativité, tout en offrant un rendu dynamique et immersif.\Lfin 2024, j’ai choisi de lancer mon activité pour mettre ma passion du pilotage et de l’image au service de projets visuels immersifs et innovants.\n"
     actions: []
     colors: bg-light-fg-dark
     styles:
