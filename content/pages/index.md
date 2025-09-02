@@ -110,14 +110,6 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/IMG_20210829_191023.jpg
     subtitle: ''
 seo:
   metaTitle: 'Page d’accueil verticraft '
