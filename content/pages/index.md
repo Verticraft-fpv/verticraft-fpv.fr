@@ -79,7 +79,16 @@ sections:
     showExcerpt: true
     showDate: true
     showAuthor: true
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /À propos
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     elementId: À propos
     variant: small-list
     colors: bg-dark-fg-light
