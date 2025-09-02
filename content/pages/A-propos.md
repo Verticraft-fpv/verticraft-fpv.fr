@@ -76,11 +76,15 @@ sections:
         textAlign: left
   - type: GenericSection
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      **Ce que je propose**
+
+
+
+      Je propose des vidéos et prises de vue réalisées avec du matériel de
+      qualité, en tirant parti de mes drones et de techniques adaptées à chaque
+      projet. Je m’efforce de donner vie à vos idées en apportant une touche
+      créative et immersive, pour un rendu unique et soigné.
     actions: []
     media:
       type: VideoBlock
