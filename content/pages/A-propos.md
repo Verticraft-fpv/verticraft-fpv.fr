@@ -64,14 +64,13 @@ sections:
           textAlign: left
     subtitle: ''
     text: >
-      **Pour qui je travaille ?**
+      **Ce que je propose**
 
 
-      Que vous soyez un particulier, un créateur de contenu, une entreprise ou
-      une structure événementielle, je suis là pour vous aider à capturer vos
-      projets de manière originale et immersive, en mettant ma passion et mon
-      matériel à votre service pour produire des images fluides, modernes et
-      percutantes.
+      Je propose des vidéos et prises de vue réalisées avec du matériel de
+      qualité, en tirant parti de mes drones et de techniques adaptées à chaque
+      projet. Je m’efforce de donner vie à vos idées en apportant une touche
+      créative et immersive, pour un rendu unique et soigné.
     actions: []
     colors: bg-light-fg-dark
     styles:
