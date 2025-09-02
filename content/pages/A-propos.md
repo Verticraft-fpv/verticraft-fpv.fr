@@ -31,6 +31,21 @@ sections:
           borderRadius: medium
       url: /images/IMG_3273.JPG
   - type: GenericSection
+    subtitle: Be in good company
+    text: >
+      A service that provides advice and guidance to startups and small
+      businesses.
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/hero3.svg
+      altText: Dope design preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+  - type: GenericSection
     title:
       type: TitleBlock
       text: ''
@@ -152,21 +167,6 @@ sections:
         textAlign: left
       text:
         textAlign: center
-  - type: GenericSection
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/hero3.svg
-      altText: Dope design preview
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
 seo:
   metaTitle: Pricing - Demo site
   metaDescription: This is the pricing page built with Netlify Create.
