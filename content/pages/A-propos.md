@@ -91,14 +91,7 @@ sections:
           borderRadius: medium
   - type: GenericSection
     subtitle: ''
-    text: >
-      **Ce que je propose**
-
-
-      Je propose des vidéos et prises de vue réalisées avec du matériel de
-      qualité, en tirant parti de mes drones et de techniques adaptées à chaque
-      projet. Je m’efforce de donner vie à vos idées en apportant une touche
-      créative et immersive, pour un rendu unique et soigné.
+    text: "**Mon matériel**\n\n\LAvec mes drones FPV, je capture des images immersives et originales, toutes disponibles en LOG pour un rendu professionnel et modulable en post-production.\nLe Cinewhoop (O4 Pro) me permet de réaliser des plans rapprochés, précis et sécurisés, avec une qualité vidéo jusqu’à 4K 60fps en HDR et des couleurs riches, idéal pour filmer des personnes ou des espaces restreints.\nMon drone 5 pouces équipé d’une Action 5 Pro offre des séquences spectaculaires en 4K 120fps HDR, avec une fluidité et un dynamisme parfaits pour les plans rapides et aériens.\nPour compléter mes prises de vue FPV, j’utilise également un Mini 4 Pro, capable de filmer en 4K 60fps HDR, idéal pour des plans stabilisés et fluides lorsque nécessaire.\n"
     actions: []
     media:
       type: ImageBlock
