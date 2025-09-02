@@ -33,8 +33,8 @@
         },
         {
             "label": "Découvrir mes services",
-            "altText": "Blog",
-            "url": "/blog",
+            "altText": "",
+            "url": "/Services",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
