@@ -105,8 +105,13 @@ sections:
   - type: GenericSection
     subtitle: ''
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      **Ce que je propose**
+
+
+      Je propose des vidéos et prises de vue réalisées avec du matériel de
+      qualité, en tirant parti de mes drones et de techniques adaptées à chaque
+      projet. Je m’efforce de donner vie à vos idées en apportant une touche
+      créative et immersive, pour un rendu unique et soigné.
     actions: []
     media:
       type: ImageBlock
