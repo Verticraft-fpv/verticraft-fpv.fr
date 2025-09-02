@@ -20,6 +20,8 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+      text:
+        textAlign: center
     media:
       type: ImageBlock
       url: /images/hero2.svg
