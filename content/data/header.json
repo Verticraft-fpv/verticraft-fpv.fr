@@ -34,7 +34,7 @@
         {
             "label": "Découvrir mes services",
             "altText": "",
-            "url": "/blog",
+            "url": "/Services",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
