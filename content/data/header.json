@@ -32,6 +32,15 @@
             "type": "Link"
         },
         {
+            "label": "Découvrir mes services",
+            "altText": "",
+            "url": "/Services",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
             "type": "Link",
             "altText": "",
             "url": "/https://www.instagram.com/VertiCraft_fpv/",
@@ -40,15 +49,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
-        },
-        {
-            "label": "Découvrir mes services",
-            "altText": "",
-            "url": "/Services",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
         }
     ],
     "secondaryLinks": [],
