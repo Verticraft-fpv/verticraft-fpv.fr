@@ -56,34 +56,41 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: ''
       color: text-dark
       styles:
         self:
           textAlign: center
-    posts:
-      - content/pages/blog/this-is-a-blog-post-with-relateezdl.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
     showAuthor: true
-    actions: []
+    actions:
+      - type: Button
+        label: À propos
+        altText: ''
+        url: /À propos
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: Services
+        altText: ''
+        url: /Services
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     elementId: À propos
     variant: small-list
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     hoverEffect: move-up
     styles:
       self:
@@ -93,14 +100,6 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/IMG_20210829_191023.jpg
     subtitle: ''
 seo:
   metaTitle: 'Page d’accueil verticraft '
