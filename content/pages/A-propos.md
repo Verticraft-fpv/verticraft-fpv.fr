@@ -106,7 +106,7 @@ sections:
         textAlign: center
 seo:
   metaTitle: À propos Verticraft fpv
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaDescription: ''
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
