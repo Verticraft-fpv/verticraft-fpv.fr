@@ -107,7 +107,7 @@ sections:
 seo:
   metaTitle: À propos Verticraft fpv
   metaDescription: ''
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/IMG_3273.JPG
   type: Seo
 type: PageLayout
 ---
