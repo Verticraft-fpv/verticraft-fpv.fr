@@ -79,14 +79,13 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-      - type: Button
-        label: Services
+      - type: Link
         altText: ''
-        url: /Services
-        showIcon: false
-        icon: arrowRight
+        url: '/https://www.instagram.com/verticraft_fpv/'
+        showIcon: true
+        icon: instagram
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
     elementId: À propos
     variant: small-list
