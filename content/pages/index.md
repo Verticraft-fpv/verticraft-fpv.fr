@@ -88,6 +88,14 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Link
+        altText: ''
+        url: '/https://www.instagram.com/verticraft_fpv/'
+        showIcon: true
+        icon: instagram
+        iconPosition: right
+        style: secondary
+        elementId: ''
     elementId: À propos
     variant: small-list
     colors: bg-light-fg-dark
