@@ -29,7 +29,7 @@ sections:
       styles:
         self:
           borderRadius: medium
-      url: /images/IMG_3273.JPG
+      url: /images/IMG_0148.jpg
   - type: GenericSection
     subtitle: ''
     text: >+
