@@ -95,7 +95,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/IMG_3273.JPG
+      url: /images/IMG_7514.jpeg
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
