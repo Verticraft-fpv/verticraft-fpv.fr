@@ -71,6 +71,12 @@ sections:
       qualité, en tirant parti de mes drones et de techniques adaptées à chaque
       projet. Je m’efforce de donner vie à vos idées en apportant une touche
       créative et immersive, pour un rendu unique et soigné.
+
+
+      je propose également un montage vidéo simple, accompagné d’un étalonnage
+      rapide pour assurer une cohérence visuelle et mettre en valeur chaque
+      prise de vue. L’objectif est d’offrir une vidéo prête à être diffusée,
+      réalisée à partir des plans drone.
     actions: []
     colors: bg-light-fg-dark
     styles:
