@@ -11,7 +11,7 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: "**À propos de moi**\n\nBonjour, je suis pilote et vidéaste FPV passionné, originaire de Savoie. Actuellement en études en République Tchèque, je reste disponible pour vos projets aussi bien en France qu’en Tchéquie. Bienvenue sur mon site !\nDepuis toujours, je suis attiré par l’image et la vidéo. Le drone FPV me permet d’allier liberté de mouvement et créativité, tout en offrant un rendu dynamique et immersif.\Lfin 2024, j’ai choisi de lancer mon activité pour mettre ma passion du pilotage et de l’image au service de projets visuels immersifs et innovants.\n"
+    text: "**À propos de moi**\n\nJe suis pilote et vidéaste FPV passionné, originaire de Savoie. Actuellement en études en République Tchèque, je reste disponible pour vos projets aussi bien en France qu’en Tchéquie. Bienvenue sur mon site !\nDepuis toujours, je suis attiré par l’image et la vidéo. Le drone FPV me permet d’allier liberté de mouvement et créativité, tout en offrant un rendu dynamique et immersif.\Lfin 2024, j’ai choisi de lancer mon activité pour mettre ma passion du pilotage et de l’image au service de projets visuels immersifs et innovants.\n"
     actions: []
     colors: bg-light-fg-dark
     styles:
@@ -29,7 +29,7 @@ sections:
       styles:
         self:
           borderRadius: medium
-      url: /images/IMG_3273.JPG
+      url: /images/IMG_0148.jpg
   - type: GenericSection
     subtitle: ''
     text: >+
@@ -71,6 +71,12 @@ sections:
       qualité, en tirant parti de mes drones et de techniques adaptées à chaque
       projet. Je m’efforce de donner vie à vos idées en apportant une touche
       créative et immersive, pour un rendu unique et soigné.
+
+
+      je propose également un montage vidéo simple, accompagné d’un étalonnage
+      rapide pour assurer une cohérence visuelle et mettre en valeur chaque
+      prise de vue. L’objectif est d’offrir une vidéo prête à être diffusée,
+      réalisée à partir des plans drone.
     actions: []
     colors: bg-light-fg-dark
     styles:
@@ -83,7 +89,7 @@ sections:
         textAlign: center
     media:
       type: ImageBlock
-      url: /images/IMG_3273.JPG
+      url: /images/DSC00116.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
@@ -95,7 +101,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/IMG_3273.JPG
+      url: /images/IMG_7514 copie.jpeg
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
@@ -105,9 +111,9 @@ sections:
       text:
         textAlign: center
 seo:
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: À propos Verticraft fpv
+  metaDescription: ''
+  socialImage: /images/IMG_3273.JPG
   type: Seo
 type: PageLayout
 ---
