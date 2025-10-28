@@ -83,7 +83,7 @@ sections:
         textAlign: center
     media:
       type: ImageBlock
-      url: /images/IMG_3273.JPG
+      url: /images/DSC00116.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
