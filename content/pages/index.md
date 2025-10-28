@@ -79,15 +79,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-      - type: Button
-        label: Services
-        altText: ''
-        url: /Services
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
       - type: Link
         altText: ''
         url: '/https://www.instagram.com/verticraft_fpv/'
