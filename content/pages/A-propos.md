@@ -97,7 +97,7 @@ sections:
           borderRadius: medium
   - type: GenericSection
     subtitle: ''
-    text: "**Mon matériel**\n\n\LAvec mes drones FPV, je capture des images immersives et originales, toutes disponibles en LOG pour un rendu professionnel et modulable en post-production.\nje dispose de plusieurs drones adaptés à différents types de projets.\nUn drone compact qui passe partout, parfait pour les prises de vue rapprochées et sécurisées\nUn drone plus rapide et dynamique pour les plans aériens à longue distance et les séquences plus intenses\nUn Mini 4 Pro pour des images stabilisées et précises, idéales en complément.\nJ’utilise également un drone capable d’emporter un boîtier Sony, offrant un rendu plus cinématique et une qualité d’image haut de gamme.\n"
+    text: "**Mon matériel**\n\n\LAvec mes drones FPV, je capture des images immersives et originales, toutes disponibles en LOG pour un rendu professionnel et modulable en post-production.\nje dispose de plusieurs drones adaptés à différents types de projets.\n\n\n*   Un drone compact qui passe partout, parfait pour les prises de vue rapprochées et sécurisées\n\n\n*   Un drone plus rapide et dynamique pour les plans aériens à longue distance et les séquences plus intenses\n\n\n*   Un Mini 4 Pro pour des images stabilisées et précises, idéales en complément.\n\nJ’utilise également un drone capable d’emporter un boîtier Sony, offrant un rendu plus cinématique et une qualité d’image haut de gamme.\n\n"
     actions: []
     media:
       type: ImageBlock
