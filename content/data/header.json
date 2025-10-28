@@ -32,15 +32,6 @@
             "type": "Link"
         },
         {
-            "label": "Découvrir mes services",
-            "altText": "",
-            "url": "/Services",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "altText": "",
             "url": "https://www.instagram.com/verticraft_fpv/",

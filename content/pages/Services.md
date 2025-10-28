@@ -106,8 +106,8 @@ sections:
       color: text-primary
     colors: bg-light-fg-dark
 seo:
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify Create.
+  metaTitle: Service Verticraft fpv
+  metaDescription: ''
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
